@@ -1,8 +1,9 @@
+package entities;
 public class Cliente extends Pessoa{ //extende de pessoa
   int id;
   
   //construtor
-  Cliente(int id, String nome, String cpf, String end, String cel) {
+  public Cliente(int id, String nome, String cpf, String end, String cel) {
     super(nome, cpf, end, cel);
     this.id = id;
   }

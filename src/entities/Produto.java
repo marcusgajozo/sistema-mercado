@@ -1,3 +1,4 @@
+package entities;
 
 public class Produto{
   private String nome;
@@ -5,7 +6,7 @@ public class Produto{
   private int id;
 
   //construtor da classe
-  Produto(int id, String nome, double preco){
+  public Produto(int id, String nome, double preco){
     this.id = id;
     this.nome = nome;
     this.preco = preco;

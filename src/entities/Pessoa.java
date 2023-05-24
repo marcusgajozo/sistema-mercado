@@ -1,3 +1,5 @@
+package entities;
+
 public  abstract class Pessoa { //implementar nome.
     private String nome;
     private String cpf;

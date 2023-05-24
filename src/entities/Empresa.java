@@ -1,4 +1,8 @@
+package entities;
+
 import java.util.*;
+
+import utils.TelasPrint;
 
 public class Empresa {
     private List<Caixa> caixa = new ArrayList<>();

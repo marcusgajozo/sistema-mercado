@@ -1,8 +1,13 @@
+package utils;
 import java.util.*;
+
+import entities.Cliente;
+import entities.Funcionario;
+import entities.Produto;
 
 public class TelasPrint {
     //construtor da calsse
-    TelasPrint(){}
+    public TelasPrint(){}
 
     //tela de inicio
     public void Principal(){

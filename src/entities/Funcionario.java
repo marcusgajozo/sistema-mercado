@@ -1,10 +1,12 @@
+package entities;
+
 public class Funcionario extends Pessoa{
   private double salario;
   private String funcao;
   int id;
 
   //construtor da classe;
-  Funcionario(int id, String nome, String cpf, String end, String cel, String funcao, double salario) {
+  public Funcionario(int id, String nome, String cpf, String end, String cel, String funcao, double salario) {
     super(nome, cpf, end, cel);
     this.funcao = funcao;
     this.salario = salario;
