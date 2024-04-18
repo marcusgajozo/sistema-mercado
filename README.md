@@ -1,6 +1,6 @@
 ## **Trabalho de Linguagem de Programação Orientada a Objetos**
 
-#### Aluno: Marcus Vinícius Borges Gajozo RGA: 2020.1905.062-2
+#### Aluno: Marcus Vinícius Borges Gajozo
 #### Professor: Lucas Reis
 
 ### **Sistema de Mercado**.
